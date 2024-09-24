@@ -8,7 +8,7 @@ This project will examine the food and beverage industry with a particular empha
 Real-time delivery time prediction is what we want to achieve. The first thing we'll do is figure out how far the meal preparation location is from the consumption point. We will first calculate the distance between the delivery location and the restaurant. In order to comprehend the relationship between the time required by delivery partners over comparable distances in the past, we will next examine the historical data.
 
 --
-
+# Files Included
 Food Delivery Prediction ML Model: Basic Analysis of Dataset in Jupyter Notebook
 Dataset: Both .txt and .csv files are added. I used .txt file in the project.
 ML_Model_FD: I used Google Colab for building the ML model and testing it. I had to switch from Jupyter Notebook due to storage issues. Google Colab worked perfectly. 
